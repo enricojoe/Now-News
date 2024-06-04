@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Now News</string>
+    <string name="image_now">Newest News</string>
+    <string name="news_img">Gambar Berita</string>
+    <string name="news_title">Ini Judul Berita</string>
+    <string name="news_date">27/05/2024</string>
+    <string name="breaking">Breaking News</string>
+    <string name="recommendation">Recommendation</string>
+</resources>
